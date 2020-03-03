@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Playfair Display Transfonter';
+    src: url('transfonter/PlayfairDisplay-Regular.eot');
+    src: url('transfonter/PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('transfonter/PlayfairDisplay-Regular.woff2') format('woff2'),
+        url('transfonter/PlayfairDisplay-Regular.woff') format('woff'),
+        url('transfonter/PlayfairDisplay-Regular.ttf') format('truetype'),
+        url('transfonter/PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display Fixed';
+    src: url('fixed/PlayfairDisplay-Regular.eot');
+    src: url('fixed/PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fixed/PlayfairDisplay-Regular.woff2') format('woff2'),
+        url('fixed/PlayfairDisplay-Regular.woff') format('woff'),
+        url('fixed/PlayfairDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
